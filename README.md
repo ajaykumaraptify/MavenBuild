@@ -1,3 +1,4 @@
+Modified Date: January 9, 2022
 HelloWorld Servlet example with corresponding Dockerfile
 
 Use Maven Build first to create war file in Target folder.
